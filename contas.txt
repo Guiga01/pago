@@ -1,0 +1,4 @@
+agua
+luz 
+internet
+aluguel
